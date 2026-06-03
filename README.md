@@ -1,29 +1,29 @@
-### Hi, I'm Duke Yoon 👋
+### 안녕하세요, Duke Yoon 입니다 👋
 
-**Privacy-first, browser-local web tools** — useful without sending your data anywhere.
+**프라이버시 우선 · 브라우저 로컬** 웹 도구를 만듭니다 — 데이터를 어디로도 보내지 않고 쓸 수 있게요.
 
-> 🔒 No uploads &nbsp;·&nbsp; 🤖 No AI &nbsp;·&nbsp; ♻️ Deterministic — everything runs in your browser.
+> 🔒 업로드 없음 &nbsp;·&nbsp; 🤖 AI 없음 &nbsp;·&nbsp; ♻️ 결정론적 — 모든 처리가 브라우저 안에서.
 
 ---
 
-#### 🧰 Tools
+#### 🧰 만든 도구
 
-| Tool | What it does | Links |
+| 도구 | 설명 | 링크 |
 |---|---|---|
-| **tidycsv** | Detects duplicates, format errors, outliers & **integrity mismatches** (sum / balance / reference) in CSV & Excel, then cleans and reports — 100% in your browser | **[Live](https://duke-yoon.github.io/tidycsv/)** · [Repo](https://github.com/duke-yoon/tidycsv) |
+| **tidycsv** | CSV·엑셀의 중복·포맷오류·이상치·**정합성 불일치(합계/잔액/참조)**를 잡아 정리·리포트 — 100% 브라우저 로컬 | **[데모](https://duke-yoon.github.io/tidycsv/)** · [코드](https://github.com/duke-yoon/tidycsv) |
 
-*More free tools on the way — gathered in one place.*
+*도구를 계속 추가해 한곳에 모을 예정입니다.*
 
-> ⭐ If a tool helps you, a **star** is the best way to support — thank you!
+> ⭐ 도움이 됐다면 **스타**가 가장 큰 응원이에요 — 감사합니다!
 
 ---
 
-#### 💬 About
+#### 💬 소개
 
-Backend developer who cares about **data integrity & correctness**. I build small, focused tools that respect your privacy: they run entirely in the browser, never upload your files, use no AI, and give the **same result every time**.
+**데이터 정합성·정제**에 강한 백엔드 개발자입니다. 작고 명확한 도구를 만들어요 — 브라우저에서만 동작하고, 파일을 업로드하지 않으며, AI 없이 **언제 돌려도 같은 결과**를 냅니다.
 
-#### 🛠️ Built with
+#### 🛠️ 기술
 
-`TypeScript` · `Vite` · deterministic rule engines · tested · open-source (MIT)
+`TypeScript` · `Vite` · 결정론 규칙 엔진 · 단위 테스트 · 오픈소스(MIT)
 
-<sub>🇰🇷 한국어도 지원합니다 — 도구 안에서 🌐 버튼으로 전환하세요.</sub>
+<sub>🌐 English — tools ship with an in-app KO/EN toggle, so they work for global users too.</sub>
