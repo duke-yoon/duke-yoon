@@ -14,6 +14,8 @@
 
 *More free tools on the way — gathered in one place.*
 
+> ⭐ If a tool helps you, a **star** is the best way to support — thank you!
+
 ---
 
 #### 💬 About
